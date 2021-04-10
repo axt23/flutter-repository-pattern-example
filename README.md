@@ -1,4 +1,4 @@
-# hello
+# flutter-repository-pattern-example
 
 A new Flutter project.
 

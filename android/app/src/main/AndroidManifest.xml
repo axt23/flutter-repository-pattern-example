@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.hello">
+    package="com.example.flutter-repository-pattern-example">
    <application
-        android:label="hello"
+        android:label="flutter-repository-pattern-example"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

@@ -1,6 +1,6 @@
 {
-    "name": "hello",
-    "short_name": "hello",
+    "name": "flutter-repository-pattern-example",
+    "short_name": "flutter-repository-pattern-example",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

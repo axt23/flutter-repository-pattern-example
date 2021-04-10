@@ -1,4 +1,4 @@
-package com.example.hello
+package com.example.flutter-repository-pattern-example
 
 import io.flutter.embedding.android.FlutterActivity
 
